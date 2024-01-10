@@ -17,6 +17,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    npm run dev
 
 ![Home Page](https://drive.google.com/file/d/1Xk4OjwCRXIU3Kuq4kEsFAoFn0uCnNf8u/view?usp=drive_link)
+
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0000.jpg)
+
+
 # Project Structure
 Discover a well-organized project structure designed for simplicity and clarity:
 
