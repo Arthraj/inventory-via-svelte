@@ -1,4 +1,4 @@
-#Product Inventory System 🚀
+# Product Inventory System 🚀
 
 Overview
 This GitHub repository hosts a sleek and efficient product inventory system built using Vite and Svelte. Manage your inventory effortlessly with a user-friendly interface, featuring a dynamic home page and an intuitive "Add Product" section.
@@ -17,16 +17,16 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
    npm run dev
 
-#Products (Home Page)
+# Products (Home Page)
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0001.jpg)
 
-#Filter By Category
+# Filter By Category
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0000.jpg)
 
-#Add Product Form
+# Add Product Form
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0002.jpg)
 
-#Form Validation
+# Form Validation
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0005.jpg)
 
 
