@@ -45,20 +45,6 @@ The project structure is organized as follows:
   - `AddProductForm.test.js`: Test file for the `AddProductForm` component
 
 
-Components
-ProductList.svelte: Display the list of products
-ProductForm.svelte: Form for adding new products
-Product.svelte: Component for a single product
-Routes
-Home.svelte: Home page displaying products
-AddProduct.svelte: Form for adding new products
-Store
-productsStore.js: Svelte store for inventory management
-Lib.js
-Api.js: Holds the API interaction code for fetching JSON data
-Main Files
-App.svelte: Main application component
-main.js: Entry point for the application
 # Routes
 Home Page
 Explore the inventory effortlessly on the dynamic home page.
