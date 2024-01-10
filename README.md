@@ -21,7 +21,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0001.jpg)
 
-![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0002jpg)
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0002.jpg)
 
 
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0003.jpg)
