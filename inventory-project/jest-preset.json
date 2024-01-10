@@ -1,0 +1,8 @@
+{
+  "preset": "svelte-jester",
+  "transform": {
+    "^.+\\.svelte$": "svelte-jester",
+    "^.+\\.(js|jsx)$": "babel-jest"
+  },
+  "moduleFileExtensions": ["js", "svelte"]
+}
