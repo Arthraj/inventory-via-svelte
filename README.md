@@ -16,6 +16,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    npm install
 
    npm run dev
+
+   
 Project Structure
 The project structure is organized as follows:
 
@@ -35,6 +37,7 @@ src/
 |-- main.js: Entry point for the application
 public/: Static assets and mock data for our API
 tests/: Jest test files
+
 
 Routes
 
