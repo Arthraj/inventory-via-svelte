@@ -16,9 +16,19 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
    npm run dev
 
-![Home Page](https://drive.google.com/file/d/1Xk4OjwCRXIU3Kuq4kEsFAoFn0uCnNf8u/view?usp=drive_link)
 
 ![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0000.jpg)
+
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0001.jpg)
+
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA00002jpg)
+
+
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0003.jpg)
+
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0004.jpg)
+
+![Screenshots](https://github.com/Arthraj/inventory-via-svelte/blob/main/images%2FIMG-20240110-WA0005.jpg)
 
 
 # Project Structure
